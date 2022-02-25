@@ -80,7 +80,7 @@ public class NewTest {
 	  password.sendKeys("1234");
 	  
 	// Go to the 3rd input
-	  
+	   
 	  WebElement email =  webDriver.findElement(By.xpath("/html/body/form/input[3]"));
 	  
 	  //input 
