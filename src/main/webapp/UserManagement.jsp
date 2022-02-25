@@ -8,7 +8,7 @@
 <meta charset="ISO-8859-1">
 <title>User Management</title>
 </head>
-<body>
+<body> 
 	<div class="row">
 		<div class="container">
 			<h3 class="text-center">List of Users</h3>
