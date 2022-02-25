@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Profile Management</title>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -21,7 +21,7 @@
 			<div class="container text-left">
 				<!-- Add new user button redirects to the addprofile.jsp page -->
 				<a href="<%=request.getContextPath()%>/addprofile.jsp"
-					class="btn btnsuccess">Add New Profile</a>
+					class="btnsuccess">Add New Profile</a>
 			</div>
 			<br>
 			<!-- Create a table to list out all current profile information -->
